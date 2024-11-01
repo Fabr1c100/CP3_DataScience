@@ -8,6 +8,8 @@
 **Turma:** 2ESPW
  
 **Ano:** 2024
+
+> Link do repositório: https://github.com/Fabr1c100/CP3_DataScience.git
 ___
  
 ### Descrição do Projeto
